@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">On Table 2</string>
+    <string name="Memo">Memo</string>
+    <string name="New">New</string>
+    <string name="View">View</string>
+    <string name="Back">Back</string>
+    <string name="Clear">Clear</string>
+    <string name="Save">Save</string>
+    <string name="Details">Details</string>
+    <string name="enter_your_text_here">Enter your text here</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="to_previous_page">This button let users back to previous page</string>
+    <string name="Delete">Delete</string>
+    <string name="Edit">Edit</string>
+</resources>
