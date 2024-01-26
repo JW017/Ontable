@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "812271435325",
+    "firebase_url": "https://on-table-24fbe-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "on-table-24fbe",
+    "storage_bucket": "on-table-24fbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812271435325:android:fbce582f242937e3f87454",
+        "android_client_info": {
+          "package_name": "com.example.ontable1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm-E0R8Vk9OrjckLiiDEzyLPS2HFYFrug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812271435325:android:d924a481a747b5edf87454",
+        "android_client_info": {
+          "package_name": "com.example.ontable2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm-E0R8Vk9OrjckLiiDEzyLPS2HFYFrug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
